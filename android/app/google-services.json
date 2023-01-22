@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036856557158",
+    "project_id": "maham-app-e271a",
+    "storage_bucket": "maham-app-e271a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036856557158:android:cf5c314667c13ce05a37a7",
+        "android_client_info": {
+          "package_name": "com.example.maham_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036856557158-ftse42r7ntbgpvp2rqmfkrfsci31u313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeubJrO3K216wXeBFCokSWiXiyV1EV7Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036856557158-ftse42r7ntbgpvp2rqmfkrfsci31u313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
